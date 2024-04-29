@@ -1,0 +1,382 @@
+
+the number is the rank of how common the word is 
+the base is if it is a base radical and there isnt a sub radical in that character 
+The following parts are ways to dissect this character 
+    (either from top or from the left depending on the final part defintion )
+The part after the question mark is an interpretation of the chracter 
+final part is if it is generally split by top and bottom or left and right 
+
+1: 日; 
+    base, 
+    ロ　"the world" , 一　"horizion" ? 
+    'The world rotates, and the sun rises above horizion' ? 
+    top
+
+2: 一; 
+    base, 
+    一 "*one* line" ? 
+    'ONE' ? 
+
+3: 国;
+    口　"the world", 玉 "gem" ? 
+    'A country is a special part of the world' ? 
+    top 
+
+4: 会; 
+    𠆢 "roof", 二 "two", ム　"people" ? 
+    'Two people MEET under a roof' ? 
+    top
+
+5: 人; 
+    base,
+    | "two legs" ? 
+    'Walking on two in a HUMAN way' ? 
+    whole
+
+6: 年; 
+    ⼲ "shield" ?
+    'Shield yourself from the elements of the YEAR' ?
+    top
+
+7: 大; 
+    base, 
+    人 "human", 一 "arms" ?
+    'Humans look BIG with arms out' ?
+    top
+
+8: 十;  
+    base, 
+    | "9 yards", 一 "one" ?
+    '9 + 1 = TEN' ?
+    top 
+
+9: 二; 
+    base, 
+    一 "line" ?
+    'TWO lines' ? 
+    top 
+
+10: 本; 
+    木 "tree" , 一 "cut through" ? 
+    'Cut down a tree for the pages in a BOOK' ? 
+    top 
+
+11: 中; 
+    | "cross section", ロ "a bowl" ?
+    'Cut through the MIDDLE of something' ?
+    top
+
+12: 長; 
+    | "line", 一 "line"?
+    'This character has a lot of LONG looking lines' ?
+    top
+
+13: 出; 
+    山 "mountain" ?
+    'GO OUT to see the mountains' ?
+    top 
+
+14: 三; 
+    base, 
+    一 "lines" ?
+    'THREE lines' ?
+    top 
+
+15: 同; 
+    冂 "rotation", 一 "additional one", ロ "circle" ?
+    'A circle is the SAME as an additional rotation' ?
+    top
+
+16: 時; 
+    日　"day", 寺 "temple"
+    'You spend your TIME at the temple' ?
+    left
+
+17: 政; 
+    正 "correct", ⺙ "to hit" ? 
+    'the correct way for political administrartion to hit' ?
+    left 
+
+18: 事; 
+    一 "line"　, 口 "mouth", 山 "mountain" ?
+    'Speaking and boundaries are ABSTRACTIONS of life (AFFAIR) on earth' ?
+    top 
+
+19: 自; 
+    base, 
+    "self" 
+
+20: 行; 
+    ⼻ "step", 二 "forward" ? 
+    'TO GO you take steps forward' ?
+    left
+
+21: 社; 
+    ⺭ "alter", 土 "earth" ?
+    'SOCIETY is an alter on earth' ?
+    left
+
+22: 見; 
+    目 "eye", 儿　"walking" ?
+    'when you WATCH your eyes walk around to see' ?
+    top
+
+23: 月; 
+    base, 
+    日 "day" ?
+    'If you length a day it becomes a MONTH' ?
+    top 　
+
+24: 分; 
+    八 "roof", 刀 "knife" ?
+    'A roof cut into PARTS can never stand' ?
+    top
+
+25: 議; 
+    言 "speak", 義 "justice" ?
+    'Speak justice to the LEGISTLATIVE BODY' ?
+    left
+
+26: 後; 
+    ⼻ "step", 夂 "behind", 幺 "house" ?
+    'Step behind the house to go out AFTER them' ?
+    left
+
+27: 前; 
+    月 "month", ⺉ "lines" ?
+    'The lines BEFORE the month are considered days' ?
+    left
+
+28: 民;
+    口 "mouth", 十 "ten" ?
+    'From the mouths of 10+ people makes a PEOPLEs democracy' ?
+    top
+
+29: 生;
+    base,
+    "LIFE" ?
+    'Life and what comes with it -- wisdom' ?
+
+30: 連;
+    ⻌ "path", 車 "car" ?
+    'Cars traveling a path as a GROUP' ?
+    left
+
+31: 五;
+    base
+    "five lines" ?
+    'Visually 5 lines appear' ?
+
+32: 発;
+    人 "person", 一 "one", 兀 "horse" ?
+    'Person sitting on a horse for the FIRST time.' ?
+    top
+    
+33: 間;
+    ⾨ "gate", 日 "day" ?
+    'The day IN BETWEEN the gates' ?
+    top
+
+34: 対;
+    文 "literature", 寸"small" ?
+    'Litearture is the OPPOSITE of small (usually XP)" ?
+    left
+
+35: 上;
+    一 "ground", | "line" ?
+    'Draw a line UP out of the ground' ?
+    top
+
+36: 部;
+    立 "stand" ?
+    'Standing on a SECTION (ロ)of the character.' ?
+    left
+
+37: 東;
+    田 "rice field", 一 "border", ?
+    'Rice field to the EAST of the border.' ?
+    top
+
+38: 者;
+    日 "day", 土 "earth" ?
+    'HUMANS enjoy every day on this earth' ?
+    top
+
+39: 党;
+    兄 "big brother", 冖 "roof" ?
+    'The family (FACTION) together under the same roof' ?
+    top
+
+40: 地;
+    土 "earth", 也 "to be" ?
+    'Earth related things (map, geography etc)'?
+    left
+
+41: 合;
+    八 "roof", ロ ""?
+    ''?
+    top
+
+42: 市;
+43: 業;
+44: 内;
+45: 相;
+46: 方;
+47: 四;
+48: 定;
+49: 今;
+50: 回;
+
+
+51: 新;
+52: 場;
+53: 金;
+54: 員;
+55: 九;
+56: 入;
+57: 選;
+58: 立;
+59: 開;
+60: 手;
+61: 米;
+62: 力;
+63: 学;
+64: 問;
+65: 高;
+66: 代;
+67: 明;
+68: 実;
+69: 円;
+70: 関;
+71: 決;
+72: 子;
+73: 動;
+74: 京;
+75: 全;
+76: 目;
+77: 表;
+78: 戦;
+79: 経;
+80: 通;
+81: 外;
+82: 最;
+83: 言;
+84: 氏;
+85: 現;
+86: 理;
+87: 調;
+88: 体;
+89: 化;
+90: 田;
+91: 当;
+92: 八;
+93: 六;
+94: 約;
+95: 主;
+96: 題;
+97: 下;
+98: 首;
+99: 意;
+100: 法;
+
+
+101: 不
+102: 来
+103: 作
+104: 性
+105: 的
+106: 要
+107: 用
+108: 制
+109: 治
+110: 度
+111: 務
+112: 強
+113: 気
+114: 小
+115: 七
+116: 成
+117: 期
+118: 公
+119: 持
+120: 野
+121: 協
+122: 取
+123: 都
+124: 和
+125: 統
+126: 以
+127: 機
+128: 平
+129: 総
+130: 加
+131: 山
+132: 思
+133: 家
+134: 話
+135: 世
+136: 受
+137: 区
+138: 領
+139: 多
+140: 県
+141: 続
+142: 進
+143: 正
+144: 安
+145: 設
+146: 保
+147: 改
+148: 数
+149: 記
+150: 院
+151: 女
+152: 初
+153: 北
+154: 午
+155: 指
+156: 権
+157: 心
+158: 界
+159: 支
+160: 第
+161: 産
+162: 結
+163: 百
+164: 派
+165: 点
+166: 教
+167: 報
+168: 済
+169: 書
+170: 府
+171: 活
+172: 原
+173: 先
+174: 共
+175: 得
+176: 解
+177: 名
+178: 交
+179: 資
+180: 予
+181: 川
+182: 向
+183: 際
+184: 査
+185: 勝
+186: 面
+187: 委
+188: 告
+189: 軍
+190: 文
+191: 反
+192: 元
+193: 重
+194: 近
+195: 千
+196: 考
+197: 判
+198: 認
+199: 画
+200: 海

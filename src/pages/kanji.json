@@ -1,0 +1,1399 @@
+{
+    "\u65e5": {
+        "rank": "1",
+        "base": "True",
+        "dissect": [
+            [
+                "\u30ed",
+                "the world"
+            ],
+            [
+                "\u4e00",
+                "horizion"
+            ]
+        ],
+        "def": "The world rotates, and the sun rises above horizion",
+        "pos": "top"
+    },
+    "\u4e00": {
+        "rank": "2",
+        "base": "True",
+        "dissect": [
+            [
+                "\u4e00",
+                "*one* line"
+            ]
+        ],
+        "def": "ONE"
+    },
+    "\u56fd": {
+        "rank": "3",
+        "base": "False",
+        "dissect": [
+            [
+                "\u53e3",
+                "the world"
+            ],
+            [
+                "\u7389",
+                "gem"
+            ]
+        ],
+        "def": "A country is a special part of the world",
+        "pos": "top"
+    },
+    "\u4f1a": {
+        "rank": "4",
+        "base": "False",
+        "dissect": [
+            [
+                "\ud840\udda2",
+                "roof"
+            ],
+            [
+                "\u4e8c",
+                "two"
+            ],
+            [
+                "\u30e0",
+                "people"
+            ]
+        ],
+        "def": "Two people MEET under a roof",
+        "pos": "top"
+    },
+    "\u4eba": {
+        "rank": "5",
+        "base": "True",
+        "dissect": [
+            [
+                "|",
+                "two legs"
+            ]
+        ],
+        "def": "Walking on two in a HUMAN way",
+        "pos": "whole"
+    },
+    "\u5e74": {
+        "rank": "6",
+        "base": "False",
+        "dissect": [
+            [
+                "\u2f32",
+                "shield"
+            ]
+        ],
+        "def": "Shield yourself from the elements of the YEAR",
+        "pos": "top"
+    },
+    "\u5927": {
+        "rank": "7",
+        "base": "True",
+        "dissect": [
+            [
+                "\u4eba",
+                "human"
+            ],
+            [
+                "\u4e00",
+                "arms"
+            ]
+        ],
+        "def": "Humans look BIG with arms out",
+        "pos": "top"
+    },
+    "\u5341": {
+        "rank": "8",
+        "base": "True",
+        "dissect": [
+            [
+                "|",
+                "9 yards"
+            ],
+            [
+                "\u4e00",
+                "one"
+            ]
+        ],
+        "def": "9 + 1 = TEN",
+        "pos": "top"
+    },
+    "\u4e8c": {
+        "rank": "9",
+        "base": "True",
+        "dissect": [
+            [
+                "\u4e00",
+                "line"
+            ]
+        ],
+        "def": "TWO lines",
+        "pos": "top"
+    },
+    "\u672c": {
+        "rank": "10",
+        "base": "False",
+        "dissect": [
+            [
+                "\u6728",
+                "tree"
+            ],
+            [
+                "\u4e00",
+                "cut through"
+            ]
+        ],
+        "def": "Cut down a tree for the pages in a BOOK",
+        "pos": "top"
+    },
+    "\u4e2d": {
+        "rank": "11",
+        "base": "False",
+        "dissect": [
+            [
+                "|",
+                "cross section"
+            ],
+            [
+                "\u30ed",
+                "a bowl"
+            ]
+        ],
+        "def": "Cut through the MIDDLE of something",
+        "pos": "top"
+    },
+    "\u9577": {
+        "rank": "12",
+        "base": "False",
+        "dissect": [
+            [
+                "|",
+                "line"
+            ],
+            [
+                "\u4e00",
+                "line"
+            ]
+        ],
+        "def": "This character has a lot of LONG looking lines",
+        "pos": "top"
+    },
+    "\u51fa": {
+        "rank": "13",
+        "base": "False",
+        "dissect": [
+            [
+                "\u5c71",
+                "mountain"
+            ]
+        ],
+        "def": "GO OUT to see the mountains",
+        "pos": "top"
+    },
+    "\u4e09": {
+        "rank": "14",
+        "base": "True",
+        "dissect": [
+            [
+                "\u4e00",
+                "lines"
+            ]
+        ],
+        "def": "THREE lines",
+        "pos": "top"
+    },
+    "\u540c": {
+        "rank": "15",
+        "base": "False",
+        "dissect": [
+            [
+                "\u5182",
+                "rotation"
+            ],
+            [
+                "\u4e00",
+                "additional one"
+            ],
+            [
+                "\u30ed",
+                "circle"
+            ]
+        ],
+        "def": "A circle is the SAME as an additional rotation",
+        "pos": "top"
+    },
+    "\u6642": {
+        "rank": "16",
+        "base": "False",
+        "dissect": [
+            [
+                "\u65e5",
+                "day"
+            ],
+            [
+                "\u5bfa",
+                "temple"
+            ]
+        ],
+        "def": "You spend your TIME at the temple",
+        "pos": "left"
+    },
+    "\u653f": {
+        "rank": "17",
+        "base": "False",
+        "dissect": [
+            [
+                "\u6b63",
+                "correct"
+            ],
+            [
+                "\u2e99",
+                "to hit"
+            ]
+        ],
+        "def": "the correct way for political administrartion to hit",
+        "pos": "left"
+    },
+    "\u4e8b": {
+        "rank": "18",
+        "base": "False",
+        "dissect": [
+            [
+                "\u4e00",
+                "line"
+            ],
+            [
+                "\u53e3",
+                "mouth"
+            ],
+            [
+                "\u5c71",
+                "mountain"
+            ]
+        ],
+        "def": "Speaking and boundaries are ABSTRACTIONS of life (AFFAIR) on earth",
+        "pos": "top"
+    },
+    "\u81ea": {
+        "rank": "19",
+        "base": "True",
+        "dissect": "self",
+        "pos": "20: \u884c;"
+    },
+    "\u884c": {
+        "rank": "20",
+        "base": "False",
+        "dissect": [
+            [
+                "\u2f3b",
+                "step"
+            ],
+            [
+                "\u4e8c",
+                "forward"
+            ]
+        ],
+        "def": "TO GO you take steps forward",
+        "pos": "left"
+    },
+    "\u793e": {
+        "rank": "21",
+        "base": "False",
+        "dissect": [
+            [
+                "\u2ead",
+                "alter"
+            ],
+            [
+                "\u571f",
+                "earth"
+            ]
+        ],
+        "def": "SOCIETY is an alter on earth",
+        "pos": "left"
+    },
+    "\u898b": {
+        "rank": "22",
+        "base": "False",
+        "dissect": [
+            [
+                "\u76ee",
+                "eye"
+            ],
+            [
+                "\u513f",
+                "walking"
+            ]
+        ],
+        "def": "when you WATCH your eyes walk around to see",
+        "pos": "top"
+    },
+    "\u6708": {
+        "rank": "23",
+        "base": "True",
+        "dissect": [
+            [
+                "\u65e5",
+                "day"
+            ]
+        ],
+        "def": "If you length a day it becomes a MONTH",
+        "pos": "top"
+    },
+    "\u5206": {
+        "rank": "24",
+        "base": "False",
+        "dissect": [
+            [
+                "\u516b",
+                "roof"
+            ],
+            [
+                "\u5200",
+                "knife"
+            ]
+        ],
+        "def": "A roof cut into PARTS can never stand",
+        "pos": "top"
+    },
+    "\u8b70": {
+        "rank": "25",
+        "base": "False",
+        "dissect": [
+            [
+                "\u8a00",
+                "speak"
+            ],
+            [
+                "\u7fa9",
+                "justice"
+            ]
+        ],
+        "def": "Speak justice to the LEGISTLATIVE BODY",
+        "pos": "left"
+    },
+    "\u5f8c": {
+        "rank": "26",
+        "base": "False",
+        "dissect": [
+            [
+                "\u2f3b",
+                "step"
+            ],
+            [
+                "\u5902",
+                "behind"
+            ],
+            [
+                "\u5e7a",
+                "house"
+            ]
+        ],
+        "def": "Step behind the house to go out AFTER them",
+        "pos": "left"
+    },
+    "\u524d": {
+        "rank": "27",
+        "base": "False",
+        "dissect": [
+            [
+                "\u6708",
+                "month"
+            ],
+            [
+                "\u2e89",
+                "lines"
+            ]
+        ],
+        "def": "The lines BEFORE the month are considered days",
+        "pos": "left"
+    },
+    "\u6c11": {
+        "rank": "28",
+        "base": "False",
+        "dissect": [
+            [
+                "\u53e3",
+                "mouth"
+            ],
+            [
+                "\u5341",
+                "ten"
+            ]
+        ],
+        "def": "From the mouths of 10+ people makes a PEOPLEs democracy",
+        "pos": "top"
+    },
+    "\u751f": {
+        "rank": "29",
+        "base": "True",
+        "dissect": "LIFE",
+        "def": "Life and what comes with it -- wisdom"
+    },
+    "\u9023": {
+        "rank": "30",
+        "base": "False",
+        "dissect": [
+            [
+                "\u2ecc",
+                "path"
+            ],
+            [
+                "\u8eca",
+                "car"
+            ]
+        ],
+        "def": "Cars traveling a path as a GROUP",
+        "pos": "left"
+    },
+    "\u4e94": {
+        "rank": "31",
+        "base": "True",
+        "dissect": "five lines",
+        "def": "Visually 5 lines appear"
+    },
+    "\u767a": {
+        "rank": "32",
+        "base": "False",
+        "dissect": [
+            [
+                "\u4eba",
+                "person"
+            ],
+            [
+                "\u4e00",
+                "one"
+            ],
+            [
+                "\u5140",
+                "horse"
+            ]
+        ],
+        "def": "Person sitting on a horse for the FIRST time.",
+        "pos": "top"
+    },
+    "\u9593": {
+        "rank": "33",
+        "base": "False",
+        "dissect": [
+            [
+                "\u2fa8",
+                "gate"
+            ],
+            [
+                "\u65e5",
+                "day"
+            ]
+        ],
+        "def": "The day IN BETWEEN the gates",
+        "pos": "top"
+    },
+    "\u5bfe": {
+        "rank": "34",
+        "base": "False",
+        "dissect": [
+            [
+                "\u6587",
+                "literature"
+            ],
+            [
+                "\u5bf8",
+                "small"
+            ]
+        ],
+        "pos": "left"
+    },
+    "\u4e0a": {
+        "rank": "35",
+        "base": "False",
+        "dissect": [
+            [
+                "\u4e00",
+                "ground"
+            ],
+            [
+                "|",
+                "line"
+            ]
+        ],
+        "def": "Draw a line UP out of the ground",
+        "pos": "top"
+    },
+    "\u90e8": {
+        "rank": "36",
+        "base": "False",
+        "dissect": [
+            [
+                "\u7acb",
+                "stand"
+            ]
+        ],
+        "def": "Standing on a SECTION (\u30ed)of the character.",
+        "pos": "left"
+    },
+    "\u6771": {
+        "rank": "37",
+        "base": "False",
+        "dissect": [
+            [
+                "\u7530",
+                "rice field"
+            ],
+            [
+                "\u4e00",
+                "border"
+            ]
+        ],
+        "def": "Rice field to the EAST of the border.",
+        "pos": "top"
+    },
+    "\u8005": {
+        "rank": "38",
+        "base": "False",
+        "dissect": [
+            [
+                "\u65e5",
+                "day"
+            ],
+            [
+                "\u571f",
+                "earth"
+            ]
+        ],
+        "def": "HUMANS enjoy every day on this earth",
+        "pos": "top"
+    },
+    "\u515a": {
+        "rank": "39",
+        "base": "False",
+        "dissect": [
+            [
+                "\u5144",
+                "big brother"
+            ],
+            [
+                "\u5196",
+                "roof"
+            ]
+        ],
+        "def": "The family (FACTION) together under the same roof",
+        "pos": "top"
+    },
+    "\u5730": {
+        "rank": "40",
+        "base": "False",
+        "dissect": [
+            [
+                "\u571f",
+                "earth"
+            ],
+            [
+                "\u4e5f",
+                "to be"
+            ]
+        ],
+        "def": "Earth related things (map, geography etc)",
+        "pos": "left"
+    },
+    "\u5408": {
+        "rank": "41",
+        "base": "False",
+        "dissect": [
+            [
+                "\u516b",
+                "roof"
+            ],
+            [
+                "\u30ed",
+                ""
+            ]
+        ],
+        "def": "",
+        "pos": "top"
+    },
+    "\u5e02": {
+        "rank": "42",
+        "base": "False",
+        "pos": "44: \u5185;"
+    },
+    "\u696d": {
+        "rank": "43",
+        "base": "False",
+        "pos": "45: \u76f8;"
+    },
+    "\u5185": {
+        "rank": "44",
+        "base": "False",
+        "pos": "46: \u65b9;"
+    },
+    "\u76f8": {
+        "rank": "45",
+        "base": "False",
+        "pos": "47: \u56db;"
+    },
+    "\u65b9": {
+        "rank": "46",
+        "base": "False",
+        "pos": "48: \u5b9a;"
+    },
+    "\u56db": {
+        "rank": "47",
+        "base": "False",
+        "pos": "49: \u4eca;"
+    },
+    "\u5b9a": {
+        "rank": "48",
+        "base": "False",
+        "pos": "50: \u56de;"
+    },
+    "\u4eca": {
+        "rank": "49",
+        "base": "False"
+    },
+    "\u56de": {
+        "rank": "50",
+        "base": "False"
+    },
+    "\u65b0": {
+        "rank": "51",
+        "base": "False",
+        "pos": "53: \u91d1;"
+    },
+    "\u5834": {
+        "rank": "52",
+        "base": "False",
+        "pos": "54: \u54e1;"
+    },
+    "\u91d1": {
+        "rank": "53",
+        "base": "False",
+        "pos": "55: \u4e5d;"
+    },
+    "\u54e1": {
+        "rank": "54",
+        "base": "False",
+        "pos": "56: \u5165;"
+    },
+    "\u4e5d": {
+        "rank": "55",
+        "base": "False",
+        "pos": "57: \u9078;"
+    },
+    "\u5165": {
+        "rank": "56",
+        "base": "False",
+        "pos": "58: \u7acb;"
+    },
+    "\u9078": {
+        "rank": "57",
+        "base": "False",
+        "pos": "59: \u958b;"
+    },
+    "\u7acb": {
+        "rank": "58",
+        "base": "False",
+        "pos": "60: \u624b;"
+    },
+    "\u958b": {
+        "rank": "59",
+        "base": "False",
+        "pos": "61: \u7c73;"
+    },
+    "\u624b": {
+        "rank": "60",
+        "base": "False",
+        "pos": "62: \u529b;"
+    },
+    "\u7c73": {
+        "rank": "61",
+        "base": "False",
+        "pos": "63: \u5b66;"
+    },
+    "\u529b": {
+        "rank": "62",
+        "base": "False",
+        "pos": "64: \u554f;"
+    },
+    "\u5b66": {
+        "rank": "63",
+        "base": "False",
+        "pos": "65: \u9ad8;"
+    },
+    "\u554f": {
+        "rank": "64",
+        "base": "False",
+        "pos": "66: \u4ee3;"
+    },
+    "\u9ad8": {
+        "rank": "65",
+        "base": "False",
+        "pos": "67: \u660e;"
+    },
+    "\u4ee3": {
+        "rank": "66",
+        "base": "False",
+        "pos": "68: \u5b9f;"
+    },
+    "\u660e": {
+        "rank": "67",
+        "base": "False",
+        "pos": "69: \u5186;"
+    },
+    "\u5b9f": {
+        "rank": "68",
+        "base": "False",
+        "pos": "70: \u95a2;"
+    },
+    "\u5186": {
+        "rank": "69",
+        "base": "False",
+        "pos": "71: \u6c7a;"
+    },
+    "\u95a2": {
+        "rank": "70",
+        "base": "False",
+        "pos": "72: \u5b50;"
+    },
+    "\u6c7a": {
+        "rank": "71",
+        "base": "False",
+        "pos": "73: \u52d5;"
+    },
+    "\u5b50": {
+        "rank": "72",
+        "base": "False",
+        "pos": "74: \u4eac;"
+    },
+    "\u52d5": {
+        "rank": "73",
+        "base": "False",
+        "pos": "75: \u5168;"
+    },
+    "\u4eac": {
+        "rank": "74",
+        "base": "False",
+        "pos": "76: \u76ee;"
+    },
+    "\u5168": {
+        "rank": "75",
+        "base": "False",
+        "pos": "77: \u8868;"
+    },
+    "\u76ee": {
+        "rank": "76",
+        "base": "False",
+        "pos": "78: \u6226;"
+    },
+    "\u8868": {
+        "rank": "77",
+        "base": "False",
+        "pos": "79: \u7d4c;"
+    },
+    "\u6226": {
+        "rank": "78",
+        "base": "False",
+        "pos": "80: \u901a;"
+    },
+    "\u7d4c": {
+        "rank": "79",
+        "base": "False",
+        "pos": "81: \u5916;"
+    },
+    "\u901a": {
+        "rank": "80",
+        "base": "False",
+        "pos": "82: \u6700;"
+    },
+    "\u5916": {
+        "rank": "81",
+        "base": "False",
+        "pos": "83: \u8a00;"
+    },
+    "\u6700": {
+        "rank": "82",
+        "base": "False",
+        "pos": "84: \u6c0f;"
+    },
+    "\u8a00": {
+        "rank": "83",
+        "base": "False",
+        "pos": "85: \u73fe;"
+    },
+    "\u6c0f": {
+        "rank": "84",
+        "base": "False",
+        "pos": "86: \u7406;"
+    },
+    "\u73fe": {
+        "rank": "85",
+        "base": "False",
+        "pos": "87: \u8abf;"
+    },
+    "\u7406": {
+        "rank": "86",
+        "base": "False",
+        "pos": "88: \u4f53;"
+    },
+    "\u8abf": {
+        "rank": "87",
+        "base": "False",
+        "pos": "89: \u5316;"
+    },
+    "\u4f53": {
+        "rank": "88",
+        "base": "False",
+        "pos": "90: \u7530;"
+    },
+    "\u5316": {
+        "rank": "89",
+        "base": "False",
+        "pos": "91: \u5f53;"
+    },
+    "\u7530": {
+        "rank": "90",
+        "base": "False",
+        "pos": "92: \u516b;"
+    },
+    "\u5f53": {
+        "rank": "91",
+        "base": "False",
+        "pos": "93: \u516d;"
+    },
+    "\u516b": {
+        "rank": "92",
+        "base": "False",
+        "pos": "94: \u7d04;"
+    },
+    "\u516d": {
+        "rank": "93",
+        "base": "False",
+        "pos": "95: \u4e3b;"
+    },
+    "\u7d04": {
+        "rank": "94",
+        "base": "False",
+        "pos": "96: \u984c;"
+    },
+    "\u4e3b": {
+        "rank": "95",
+        "base": "False",
+        "pos": "97: \u4e0b;"
+    },
+    "\u984c": {
+        "rank": "96",
+        "base": "False",
+        "pos": "98: \u9996;"
+    },
+    "\u4e0b": {
+        "rank": "97",
+        "base": "False",
+        "pos": "99: \u610f;"
+    },
+    "\u9996": {
+        "rank": "98",
+        "base": "False",
+        "pos": "100: \u6cd5;"
+    },
+    "\u610f": {
+        "rank": "99",
+        "base": "False"
+    },
+    "\u6cd5": {
+        "rank": "100",
+        "base": "False"
+    },
+    "\u4e0d": {
+        "rank": "101",
+        "base": "False",
+        "pos": "103: \u4f5c"
+    },
+    "\u6765": {
+        "rank": "102",
+        "base": "False",
+        "pos": "104: \u6027"
+    },
+    "\u4f5c": {
+        "rank": "103",
+        "base": "False",
+        "pos": "105: \u7684"
+    },
+    "\u6027": {
+        "rank": "104",
+        "base": "False",
+        "pos": "106: \u8981"
+    },
+    "\u7684": {
+        "rank": "105",
+        "base": "False",
+        "pos": "107: \u7528"
+    },
+    "\u8981": {
+        "rank": "106",
+        "base": "False",
+        "pos": "108: \u5236"
+    },
+    "\u7528": {
+        "rank": "107",
+        "base": "False",
+        "pos": "109: \u6cbb"
+    },
+    "\u5236": {
+        "rank": "108",
+        "base": "False",
+        "pos": "110: \u5ea6"
+    },
+    "\u6cbb": {
+        "rank": "109",
+        "base": "False",
+        "pos": "111: \u52d9"
+    },
+    "\u5ea6": {
+        "rank": "110",
+        "base": "False",
+        "pos": "112: \u5f37"
+    },
+    "\u52d9": {
+        "rank": "111",
+        "base": "False",
+        "pos": "113: \u6c17"
+    },
+    "\u5f37": {
+        "rank": "112",
+        "base": "False",
+        "pos": "114: \u5c0f"
+    },
+    "\u6c17": {
+        "rank": "113",
+        "base": "False",
+        "pos": "115: \u4e03"
+    },
+    "\u5c0f": {
+        "rank": "114",
+        "base": "False",
+        "pos": "116: \u6210"
+    },
+    "\u4e03": {
+        "rank": "115",
+        "base": "False",
+        "pos": "117: \u671f"
+    },
+    "\u6210": {
+        "rank": "116",
+        "base": "False",
+        "pos": "118: \u516c"
+    },
+    "\u671f": {
+        "rank": "117",
+        "base": "False",
+        "pos": "119: \u6301"
+    },
+    "\u516c": {
+        "rank": "118",
+        "base": "False",
+        "pos": "120: \u91ce"
+    },
+    "\u6301": {
+        "rank": "119",
+        "base": "False",
+        "pos": "121: \u5354"
+    },
+    "\u91ce": {
+        "rank": "120",
+        "base": "False",
+        "pos": "122: \u53d6"
+    },
+    "\u5354": {
+        "rank": "121",
+        "base": "False",
+        "pos": "123: \u90fd"
+    },
+    "\u53d6": {
+        "rank": "122",
+        "base": "False",
+        "pos": "124: \u548c"
+    },
+    "\u90fd": {
+        "rank": "123",
+        "base": "False",
+        "pos": "125: \u7d71"
+    },
+    "\u548c": {
+        "rank": "124",
+        "base": "False",
+        "pos": "126: \u4ee5"
+    },
+    "\u7d71": {
+        "rank": "125",
+        "base": "False",
+        "pos": "127: \u6a5f"
+    },
+    "\u4ee5": {
+        "rank": "126",
+        "base": "False",
+        "pos": "128: \u5e73"
+    },
+    "\u6a5f": {
+        "rank": "127",
+        "base": "False",
+        "pos": "129: \u7dcf"
+    },
+    "\u5e73": {
+        "rank": "128",
+        "base": "False",
+        "pos": "130: \u52a0"
+    },
+    "\u7dcf": {
+        "rank": "129",
+        "base": "False",
+        "pos": "131: \u5c71"
+    },
+    "\u52a0": {
+        "rank": "130",
+        "base": "False",
+        "pos": "132: \u601d"
+    },
+    "\u5c71": {
+        "rank": "131",
+        "base": "False",
+        "pos": "133: \u5bb6"
+    },
+    "\u601d": {
+        "rank": "132",
+        "base": "False",
+        "pos": "134: \u8a71"
+    },
+    "\u5bb6": {
+        "rank": "133",
+        "base": "False",
+        "pos": "135: \u4e16"
+    },
+    "\u8a71": {
+        "rank": "134",
+        "base": "False",
+        "pos": "136: \u53d7"
+    },
+    "\u4e16": {
+        "rank": "135",
+        "base": "False",
+        "pos": "137: \u533a"
+    },
+    "\u53d7": {
+        "rank": "136",
+        "base": "False",
+        "pos": "138: \u9818"
+    },
+    "\u533a": {
+        "rank": "137",
+        "base": "False",
+        "pos": "139: \u591a"
+    },
+    "\u9818": {
+        "rank": "138",
+        "base": "False",
+        "pos": "140: \u770c"
+    },
+    "\u591a": {
+        "rank": "139",
+        "base": "False",
+        "pos": "141: \u7d9a"
+    },
+    "\u770c": {
+        "rank": "140",
+        "base": "False",
+        "pos": "142: \u9032"
+    },
+    "\u7d9a": {
+        "rank": "141",
+        "base": "False",
+        "pos": "143: \u6b63"
+    },
+    "\u9032": {
+        "rank": "142",
+        "base": "False",
+        "pos": "144: \u5b89"
+    },
+    "\u6b63": {
+        "rank": "143",
+        "base": "False",
+        "pos": "145: \u8a2d"
+    },
+    "\u5b89": {
+        "rank": "144",
+        "base": "False",
+        "pos": "146: \u4fdd"
+    },
+    "\u8a2d": {
+        "rank": "145",
+        "base": "False",
+        "pos": "147: \u6539"
+    },
+    "\u4fdd": {
+        "rank": "146",
+        "base": "False",
+        "pos": "148: \u6570"
+    },
+    "\u6539": {
+        "rank": "147",
+        "base": "False",
+        "pos": "149: \u8a18"
+    },
+    "\u6570": {
+        "rank": "148",
+        "base": "False",
+        "pos": "150: \u9662"
+    },
+    "\u8a18": {
+        "rank": "149",
+        "base": "False",
+        "pos": "151: \u5973"
+    },
+    "\u9662": {
+        "rank": "150",
+        "base": "False",
+        "pos": "152: \u521d"
+    },
+    "\u5973": {
+        "rank": "151",
+        "base": "False",
+        "pos": "153: \u5317"
+    },
+    "\u521d": {
+        "rank": "152",
+        "base": "False",
+        "pos": "154: \u5348"
+    },
+    "\u5317": {
+        "rank": "153",
+        "base": "False",
+        "pos": "155: \u6307"
+    },
+    "\u5348": {
+        "rank": "154",
+        "base": "False",
+        "pos": "156: \u6a29"
+    },
+    "\u6307": {
+        "rank": "155",
+        "base": "False",
+        "pos": "157: \u5fc3"
+    },
+    "\u6a29": {
+        "rank": "156",
+        "base": "False",
+        "pos": "158: \u754c"
+    },
+    "\u5fc3": {
+        "rank": "157",
+        "base": "False",
+        "pos": "159: \u652f"
+    },
+    "\u754c": {
+        "rank": "158",
+        "base": "False",
+        "pos": "160: \u7b2c"
+    },
+    "\u652f": {
+        "rank": "159",
+        "base": "False",
+        "pos": "161: \u7523"
+    },
+    "\u7b2c": {
+        "rank": "160",
+        "base": "False",
+        "pos": "162: \u7d50"
+    },
+    "\u7523": {
+        "rank": "161",
+        "base": "False",
+        "pos": "163: \u767e"
+    },
+    "\u7d50": {
+        "rank": "162",
+        "base": "False",
+        "pos": "164: \u6d3e"
+    },
+    "\u767e": {
+        "rank": "163",
+        "base": "False",
+        "pos": "165: \u70b9"
+    },
+    "\u6d3e": {
+        "rank": "164",
+        "base": "False",
+        "pos": "166: \u6559"
+    },
+    "\u70b9": {
+        "rank": "165",
+        "base": "False",
+        "pos": "167: \u5831"
+    },
+    "\u6559": {
+        "rank": "166",
+        "base": "False",
+        "pos": "168: \u6e08"
+    },
+    "\u5831": {
+        "rank": "167",
+        "base": "False",
+        "pos": "169: \u66f8"
+    },
+    "\u6e08": {
+        "rank": "168",
+        "base": "False",
+        "pos": "170: \u5e9c"
+    },
+    "\u66f8": {
+        "rank": "169",
+        "base": "False",
+        "pos": "171: \u6d3b"
+    },
+    "\u5e9c": {
+        "rank": "170",
+        "base": "False",
+        "pos": "172: \u539f"
+    },
+    "\u6d3b": {
+        "rank": "171",
+        "base": "False",
+        "pos": "173: \u5148"
+    },
+    "\u539f": {
+        "rank": "172",
+        "base": "False",
+        "pos": "174: \u5171"
+    },
+    "\u5148": {
+        "rank": "173",
+        "base": "False",
+        "pos": "175: \u5f97"
+    },
+    "\u5171": {
+        "rank": "174",
+        "base": "False",
+        "pos": "176: \u89e3"
+    },
+    "\u5f97": {
+        "rank": "175",
+        "base": "False",
+        "pos": "177: \u540d"
+    },
+    "\u89e3": {
+        "rank": "176",
+        "base": "False",
+        "pos": "178: \u4ea4"
+    },
+    "\u540d": {
+        "rank": "177",
+        "base": "False",
+        "pos": "179: \u8cc7"
+    },
+    "\u4ea4": {
+        "rank": "178",
+        "base": "False",
+        "pos": "180: \u4e88"
+    },
+    "\u8cc7": {
+        "rank": "179",
+        "base": "False",
+        "pos": "181: \u5ddd"
+    },
+    "\u4e88": {
+        "rank": "180",
+        "base": "False",
+        "pos": "182: \u5411"
+    },
+    "\u5ddd": {
+        "rank": "181",
+        "base": "False",
+        "pos": "183: \u969b"
+    },
+    "\u5411": {
+        "rank": "182",
+        "base": "False",
+        "pos": "184: \u67fb"
+    },
+    "\u969b": {
+        "rank": "183",
+        "base": "False",
+        "pos": "185: \u52dd"
+    },
+    "\u67fb": {
+        "rank": "184",
+        "base": "False",
+        "pos": "186: \u9762"
+    },
+    "\u52dd": {
+        "rank": "185",
+        "base": "False",
+        "pos": "187: \u59d4"
+    },
+    "\u9762": {
+        "rank": "186",
+        "base": "False",
+        "pos": "188: \u544a"
+    },
+    "\u59d4": {
+        "rank": "187",
+        "base": "False",
+        "pos": "189: \u8ecd"
+    },
+    "\u544a": {
+        "rank": "188",
+        "base": "False",
+        "pos": "190: \u6587"
+    },
+    "\u8ecd": {
+        "rank": "189",
+        "base": "False",
+        "pos": "191: \u53cd"
+    },
+    "\u6587": {
+        "rank": "190",
+        "base": "False",
+        "pos": "192: \u5143"
+    },
+    "\u53cd": {
+        "rank": "191",
+        "base": "False",
+        "pos": "193: \u91cd"
+    },
+    "\u5143": {
+        "rank": "192",
+        "base": "False",
+        "pos": "194: \u8fd1"
+    },
+    "\u91cd": {
+        "rank": "193",
+        "base": "False",
+        "pos": "195: \u5343"
+    },
+    "\u8fd1": {
+        "rank": "194",
+        "base": "False",
+        "pos": "196: \u8003"
+    },
+    "\u5343": {
+        "rank": "195",
+        "base": "False",
+        "pos": "197: \u5224"
+    },
+    "\u8003": {
+        "rank": "196",
+        "base": "False",
+        "pos": "198: \u8a8d"
+    },
+    "\u5224": {
+        "rank": "197",
+        "base": "False",
+        "pos": "199: \u753b"
+    },
+    "\u8a8d": {
+        "rank": "198",
+        "base": "False",
+        "pos": "200: \u6d77"
+    },
+    "\u753b": {
+        "rank": "199",
+        "base": "False"
+    }
+}

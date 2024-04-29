@@ -1,0 +1,395 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap');
+
+/* . for class // # for id // space for some things */
+
+/* base styles */
+* {
+  margin: 0 auto;
+  font-family: "Quicksand";
+  max-width: 40.25rem;
+  color: #333;
+  /* max-width: 1200px; */
+  /* background-color: whitesmoke; */
+}
+::selection{
+  background-color: #ddbcc4;
+  color: white;
+}
+.logo {
+  height: 70px;
+  width: 90px;
+  position: relative;
+}
+.contents{
+  background-color: #bcc5dd;
+  border-radius: .77rem;
+  padding: .5%;
+}
+.nangword{
+  position: relative;
+  left: -60px;
+  top: 0px;
+}
+
+/*             NAVBAR            */
+.navbar {
+  padding: 10px;
+  display: flex;
+  align-items: center;
+  max-width: 600px;
+  margin: 0 auto;
+  border-bottom: 1px solid #e2e2e2; 
+}
+.navbar h1 {
+  color: #c5ddbc;
+}
+.navbar h2 {
+  color: #c5ddbc;
+  text-size-adjust: .5em;
+}
+.navbar h2:hover {
+  color: #ddbcc4;
+}
+.navbar a:hover {
+  color: #ddbcc4;
+}
+.navbar .links {
+  margin-left: auto;
+}
+.navbar a {
+  margin-left: 16px;
+  text-decoration: none;
+  padding: 6px;
+}
+
+
+/*               HOME               */
+/* https://blog.hubspot.com/website/css-fade-in#text-transition */
+.home{
+  position:relative;
+  text-align: center;
+}
+#welcomeMessage{
+  font-size: 97px; 
+  animation: fadeIn 3s;
+}
+@keyframes fadeIn {
+  0% { opacity: 0; }
+  100% { opacity: 1; }
+}
+#submessage{
+  position: absolute;
+  top: 120px;
+  left: 370px;
+}
+#learns{
+  font-size: 45px;
+  position: absolute;
+  height: 60px;
+  width: 270px;
+  background-color: #ddbcc4;
+  padding: 10px 10px;
+  border-radius: 6px;
+}
+#exLearn{
+  font-size: 20px;
+  width: 400px;
+  background-color: #ddbcc4;
+  text-align: center;
+  padding: 10px 10px;
+  border-radius: 6px;
+  position: relative;
+  top: 85px;
+  left: 100px;
+  display: inline-block; 
+}
+#exLearn::selection{
+  background-color: #c5ddbc;
+  color: white;
+}
+#learns::selection{
+  background-color: #c5ddbc;
+  color: white;
+}
+#containerDict{
+  padding: 100px 0px 100px 0px !important;
+}
+#dict{
+  font-size: 45px;
+  position: absolute;
+  padding-top: 1000px;
+  height: 60px;
+  width: 270px;
+  background-color: #c5ddbc;
+  padding: 10px 10px;
+  border-radius: 6px;
+}
+#exDict{
+  font-size: 20px;
+  width: 400px;
+  background-color: #c5ddbc;
+  text-align: center;
+  padding: 10px 10px;
+  border-radius: 6px;
+  position: relative;
+  top: 85px;
+  left: 100px;
+  display: inline-block; 
+}
+.home{
+  background-color: #bcc5dd;
+  border-radius: .77rem;
+  padding: .5%;
+  height: 920px;
+}
+
+
+
+
+/*              LEARN             */
+/* the big boy that displays on searches only in learn  */
+#learnResult #learnKanji{
+  font-size: 200px;
+  color: #282929;
+  text-align: center;
+  line-height: 1;
+}
+.learnContainer #learnResult #apiKanji{
+  line-height: 50px;
+}
+#learnHelp{
+  visibility: visible;
+  position: absolute;
+  left: 170px;
+}
+#learnHelp2 {
+  visibility: visible;
+  position: absolute;
+  left: 170px;
+  top: 900px;
+}
+
+
+#top{
+  position: absolute;
+  top: 210px;
+  left: 400px;
+  height: 90px;
+  width: 170px;
+}
+#radsTop{
+  visibility: hidden;
+  font-size: 20px;
+  width: 200px;
+  background-color: #c5ddbc;
+  text-align: left;
+  padding: 7px 7px;
+  border-radius: 6px;
+  position: absolute;
+  display: inline-block; 
+  top: 220px;
+  left: 60%; 
+  z-index: 1;
+}
+#top:hover + #radsTop{
+  visibility: visible;
+}
+
+#bottom{
+  position: absolute;
+  top: 305px;
+  left: 400px;
+  height: 90px;
+  width: 170px;
+}
+#radsBot{
+  visibility: hidden;
+  font-size: 20px;
+  width: 200px;
+  background-color: #ddbcc4;
+  text-align: left;
+  padding: 7px 7px;
+  border-radius: 6px;
+  position: absolute;
+  display: inline-block; 
+  top: 307px;
+  left: 60%; 
+  z-index: 1;
+}
+#bottom:hover + #radsBot{
+  visibility: visible;
+}
+
+#left{
+  position: absolute;
+  top: 210px;
+  left: 377px;
+  height: 200px;
+  width: 110px;
+}
+#radsL{
+  visibility: hidden;
+  font-size: 20px;
+  width: 200px;
+  background-color: #c5ddbc;
+  text-align: left;
+  padding: 7px 7px;
+  border-radius: 6px;
+  position: absolute;
+  display: inline-block; 
+  top: 250px;
+  left: 19%; 
+  z-index: 1;
+}
+#left:hover + #radsL{
+  visibility: visible;
+}
+
+#right{
+  position: absolute;
+  top: 210px;
+  left: 500px;
+  height: 200px;
+  width: 110px;
+}
+#radsR{
+  visibility: hidden;
+  font-size: 20px;
+  width: 200px;
+  background-color: #ddbcc4;
+  text-align: left;
+  padding: 7px 7px;
+  border-radius: 6px;
+  position: absolute;
+  display: inline-block; 
+  top: 250px;
+  left: 60%; 
+  z-index: 1;
+}
+#right:hover + #radsR{
+  visibility: visible;
+}
+
+
+/*                    DICT                     */
+.label {
+  font-size: 15px;
+  font-weight: 400;
+  text-transform: uppercase;
+  letter-spacing: +1.3px;
+  margin-bottom: .5rem;
+}
+#outputKanji #kanji{ /* the big boy that displays on searches only in dictionary */
+  font-size: 150px;
+  color: #282929;
+  text-align: center;
+}
+
+
+/*                        SEARCH                         */
+/* search bar for both learn and dictionary*//* https://codepen.io/kmuenster/pen/XWWeQGw for search style */
+/* search bar styling */
+.learnContainer {
+  width: 100%;
+  max-width: 31rem;
+  margin: 2rem auto;
+}
+.dictionaryContainer {
+  width: 100%;
+  max-width: 31rem;
+  margin: 2rem auto;
+}
+#kanjiInput {
+  width: 100%;
+  height: 2.8rem;
+  background: #f5f5f5;
+  outline: none;
+  border: none;
+  border-radius: 1.625rem;
+  padding: 0 0rem 0 1.5rem;
+  font-size: 1rem;
+}
+/* search button styling */
+/* #kanjiSubmit {
+  width: 3.5rem;
+  height: 2.8rem;
+  margin-left: -3.5rem;
+  background: none;
+  border: none;
+  outline: none;
+  visibility: hidden;
+} */
+#kanjiSubmit:hover {
+  cursor: pointer;
+}
+
+/* .searchBar {
+  width: 100%; 
+  display: flex;
+  flex-direction: row;
+  align-items: center; 
+} */
+
+
+
+
+/*                          ABOUT                        */
+.meImage img {
+  height: 350px;
+  width: 400px;
+  border-radius: 20px;
+  padding: 7px;
+  position: relative;
+  left: 220px;
+} 
+.thanks p{
+  padding: 6px;
+  border: #333;
+}
+.about {
+  padding: 10px;
+}
+.thanksImage {
+  position: relative;
+  left: -12px;
+}
+.imageSubtitle{
+  font-size: 10px;
+  position:relative;
+  left: 120px;
+  max-width: 400px;
+}
+
+
+/* what is this idk?
+.topnav input[type=text] {
+  float: right;
+  padding: 6px;
+  border: none;
+  margin-top: 8px;
+  margin-right: 16px;
+  font-size: 17px;
+} */
+
+
+
+/* 
+.content {
+  max-width: 600px;
+  margin: 20px auto;
+  padding: 00px;
+} */
+
+/* .blog-preview {
+  padding: 10px 16px;
+  margin: 20px 0;
+  border-bottom: 1px solid #fafafa;
+}
+.blog-preview:hover {
+  box-shadow: 1px 3px 5px rgba(0,0,0,0.1);
+}
+.blog-preview h2 {
+  font-size: 20px;
+  color: #f1356d;
+  margin-bottom: 8px;
+} */
