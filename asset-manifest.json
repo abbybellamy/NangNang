@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/NangNang/static/css/main.3bc60781.css",
-    "main.js": "/NangNang/static/js/main.9a1cfbf3.js",
+    "main.js": "/NangNang/static/js/main.4239537d.js",
     "static/media/me.png": "/NangNang/static/media/me.2a924682d7b5d4f42dd1.png",
     "static/media/LearnpageTut.png": "/NangNang/static/media/LearnpageTut.a425a62ce2d7780e3f4f.png",
     "static/media/LearnpageTut2.png": "/NangNang/static/media/LearnpageTut2.69d4b7ae9db19c3adc18.png",
@@ -9,10 +9,10 @@
     "static/media/有難う.png": "/NangNang/static/media/有難う.c61ca53508d71ed80102.png",
     "index.html": "/NangNang/index.html",
     "main.3bc60781.css.map": "/NangNang/static/css/main.3bc60781.css.map",
-    "main.9a1cfbf3.js.map": "/NangNang/static/js/main.9a1cfbf3.js.map"
+    "main.4239537d.js.map": "/NangNang/static/js/main.4239537d.js.map"
   },
   "entrypoints": [
     "static/css/main.3bc60781.css",
-    "static/js/main.9a1cfbf3.js"
+    "static/js/main.4239537d.js"
   ]
 }
