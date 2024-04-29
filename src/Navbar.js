@@ -1,26 +1,23 @@
-// sfc tab gave this stuff
-// import Home from './pages/Home';
-// import About from './pages/About';
-import logo from './images/final.png'
+import React from 'react';
+import { NavLink } from 'react-router-dom';
+import logo from './images/final.png';
 
 const Navbar = () => {
     return ( 
         <nav className="navbar">
             <div>
-                <img className = "logo" src={logo} alt="logo for NangNang" />
+                <img className="logo" src={logo} alt="logo for NangNang" />
             </div>
 
-            <div className = "nangword">
-                <a href="/Home"><h2>NangNang</h2> </a>
+            <div className="nangword">
+                <NavLink to="/home"><h2>NangNang</h2></NavLink>
             </div>
 
             <div className="links">
-            <a href="/Learn">Learn</a>
-                <a href="/Dictionary">Dictionary</a>
-                <a href="/About">About</a>
+                <NavLink to="/learn">Learn</NavLink>
+                <NavLink to="/dictionary">Dictionary</NavLink>
+                <NavLink to="/about">About</NavLink>
             </div>
-
-            
         </nav>
     );
 }

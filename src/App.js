@@ -5,23 +5,23 @@ import Dictionary from './pages/Dictionary';
 import Learn from './pages/Learn';
 import NoPage from './pages/NoPage';
 //import Dictonary from './Dictonary';
-import { BrowserRouter, Routes, Route } from 'react-router-dom';
+import { HashRouter, Routes, Route } from 'react-router-dom';
 
 function App() {
   return (
     <div className="App">
       <Navbar />
       <div className="contents">
-        <BrowserRouter>
+        {/* <HashRouter basename="/NangNang"> */}
           <Routes>
-            <Route index element = {<Home />} />
+            <Route index element={<Home />} />
             <Route path="/home" element = {<Home />} />
             <Route path="/about" element = {<About />} />\
             <Route path="/dictionary" element = {<Dictionary />} />
             <Route path="/learn" element = {<Learn />} />
             <Route path="/*" element = {<NoPage />} />
           </Routes>
-        </BrowserRouter>
+        {/* </HashRouter> */}
       </div>
     </div>
   );
