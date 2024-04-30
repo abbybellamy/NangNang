@@ -134,7 +134,7 @@ final part is if it is generally split by top and bottom or left and right
 
 25: 議; 
     言 "speak", 義 "justice" ?
-    'Speak justice to the LEGISTLATIVE BODY' ?
+    'Speak justice to the LEGISLATIVE BODY' ?
     left
 
 26: 後; 
@@ -179,7 +179,7 @@ final part is if it is generally split by top and bottom or left and right
 
 34: 対;
     文 "literature", 寸"small" ?
-    'Litearture is the OPPOSITE of small (usually XP)" ?
+    'Literature is the OPPOSITE of small (usually XP)" ?
     left
 
 35: 上;
@@ -189,7 +189,7 @@ final part is if it is generally split by top and bottom or left and right
 
 36: 部;
     立 "stand" ?
-    'Standing on a SECTION (ロ)of the character.' ?
+    'Standing on a SECTION (ロ) of the character.' ?
     left
 
 37: 東;
@@ -203,7 +203,7 @@ final part is if it is generally split by top and bottom or left and right
     top
 
 39: 党;
-    兄 "big brother", 冖 "roof" ?
+    冖 "roof", 兄 "big brother" ?
     'The family (FACTION) together under the same roof' ?
     top
 

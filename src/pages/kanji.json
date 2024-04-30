@@ -369,7 +369,7 @@
                 "justice"
             ]
         ],
-        "def": "Speak justice to the LEGISTLATIVE BODY",
+        "def": "Speak justice to the LEGISLATIVE BODY",
         "pos": "left"
     },
     "\u5f8c": {
@@ -528,7 +528,7 @@
                 "stand"
             ]
         ],
-        "def": "Standing on a SECTION (\u30ed)of the character.",
+        "def": "Standing on a SECTION (\u30ed) of the character.",
         "pos": "left"
     },
     "\u6771": {
@@ -568,12 +568,12 @@
         "base": "False",
         "dissect": [
             [
-                "\u5144",
-                "big brother"
-            ],
-            [
                 "\u5196",
                 "roof"
+            ],
+            [
+                "\u5144",
+                "big brother"
             ]
         ],
         "def": "The family (FACTION) together under the same roof",
